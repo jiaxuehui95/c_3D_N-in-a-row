@@ -1,0 +1,23 @@
+compiler :gcc -Wall -Wextra -ansi xuehui.jia_Projet.c -lm
+
+step 1:
+choisez un mode: tapez un entier entre 1-4
+
+step 2:
+tapez la taille du tableau:tapez un entier entre 1-50
+
+step 3:
+vous pouvez taper i, j, k et l pour d¨¦place le curseur de s¨¦lection de la case respectivement vers le haut, la gauche, le bas et la droite,
+Et chaque fois qu'on choisit ,il faut taper la touche entr¨¦e . vous pouvez taper plusieurs command avant un touche entr¨¦e
+comme : iiillkk   "entr¨¦e" 
+
+step 4:
+quand vous avez bien choisi la case , vous pouvez taper 'p' pour poser un jeton ou taper 'r' pour retirer un jeton.
+
+step 5:
+si quelqu'un a gagn¨¦ , l'information du gagner va appara?tre au dessus du tableau .
+
+step 6:
+si vous voulez quitter ce jeu , tapez 'q'.
+
+
